@@ -1,7 +1,7 @@
 # laconic
 <p align="center">
-<a href="./laconic/Readme.md">[English]</a>
-<a href="./laconic/Readme_zh.md">[简体中文]</a>
+<a href="./README.md">[English]</a>
+<a href="./README_ZH.md">[简体中文]</a>
 </p>
 
 
