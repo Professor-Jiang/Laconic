@@ -1,7 +1,7 @@
 # Liconic
 <p align="center">
-<a href="./laconic/Readme.md">[English]</a>
-<a href="./laconic/Readme_zh.md">[简体中文]</a>
+<a href="./Readme.md">[English]</a>
+<a href="./Readme_zh.md">[简体中文]</a>
 </p>
 这是一个基于Vue3的项目！
 
