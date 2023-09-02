@@ -1,7 +1,7 @@
 # laconic
 <p align="center">
 <a href="./README.md">[English]</a>
-<a href="./README_ZH.md">[简体中文]</a>
+<a href="mmt.md">[简体中文]</a>
 </p>
 
 
